@@ -10,6 +10,18 @@ body {
     min-height: 100vh
 }
 
+.App{
+    text-align: center;
+    display: inline-block;
+    margin: 90px;
+    border: 2px solid black;
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px #ccc;
+    width: 450px;
+    height: 400px;
+    padding: 30px;
+    }
+
 .main-content {
     flex-grow: 1;
 }
